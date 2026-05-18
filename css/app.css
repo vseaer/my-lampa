@@ -15275,4 +15275,4 @@ body.glass--style.platform--browser .head__action:not(.focus), body.glass--style
   background-color: rgba(0, 0, 0, 0.06);
   -webkit-backdrop-filter: blur(1em);
           backdrop-filter: blur(1em);
-}
+}.https { display: none !important; }
